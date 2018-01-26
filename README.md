@@ -1,0 +1,2 @@
+# tofuslackstamp
+おとうふくんのslackスタンプ
