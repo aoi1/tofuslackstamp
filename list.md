@@ -20,3 +20,8 @@
 
 ## sorry
 ![sorry](sorry.png "ごめん")
+
+# List of animation
+
+## dogeza_gif
+![dogeza_gif](animation/dogeza.gif "土下座GIF")
