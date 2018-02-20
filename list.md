@@ -21,6 +21,9 @@
 ## sorry
 ![sorry](sorry.png "ごめん")
 
+## go_to_hell
+![go_to_hell](go_to_hell.png "天に昇る")
+
 # List of animation
 
 ## dogeza_gif
