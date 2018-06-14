@@ -24,6 +24,12 @@
 ## go_to_hell
 ![go_to_hell](go_to_hell.png "天に昇る")
 
+## teacher
+![teacher](teacher.png "先生")
+
+## yoshiyoshi
+![yoshiyoshi](yoshiyoshi.png "よしよし")
+
 # List of animation
 
 ## dogeza_gif
